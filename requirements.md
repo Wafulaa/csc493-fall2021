@@ -1,7 +1,8 @@
-1: My sql: I am going to creat a database that store the items in the store and their prices so i will need my sql
- I will also need Visio studio: I will need to use HTML and Javascript and netprogramming which will reqire it.
+1: I do reqire visula studio to create my database using My sql: I am going to creat a database that store the items in the store and their prices so i will need my sql
+ I
  
-**Number: (List unique requirement.)**
+**Number: (List unique requirement.)**\
+I requre to do 2 things:
 I do require Visual studio which I have alredy downloaded.\
 I am meeting Up with liberty for help in linking up my database to my website\
 **Statement: (Precisely state the requirement.)**\
