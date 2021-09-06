@@ -2,10 +2,10 @@
  I will also need Visio studio: I will need to use HTML and Javascript and netprogramming which will reqire it.
  
 **Number: (List unique requirement.)**
-I do require Visual studio which I have alredy downloaded.
-I am meeting Up with liberty for help in linking up my database to my website
-**Statement: (Precisely state the requirement.)**
-For my website, I ausing both Visuol studio to edut the HTML document I am using. 
+I do require Visual studio which I have alredy downloaded.\
+I am meeting Up with liberty for help in linking up my database to my website\
+**Statement: (Precisely state the requirement.)**\
+For my website, I ausing both Visuol studio to edut the HTML document I am using. \
 Iam using Visual studio to create my database storing the items and prices of the Items in the invetory.
 **Evaluation Method: (How can you tell if the completed software satisfies this requirement?)**
 Visual studio can work with both editing HTML and also creating website which I think satsisifies the current requirements I have as far as the project is concerened.
